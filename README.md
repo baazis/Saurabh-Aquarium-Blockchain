@@ -37,6 +37,4 @@ Video - https://youtu.be/7JyL98UIFcA
 
 ## Video:
 
-<iframe width="420" height="345" src="https://youtu.be/7JyL98UIFcA">
-</iframe>
-
+https://youtu.be/7JyL98UIFcA
