@@ -1,0 +1,129 @@
+[
+  {
+    "id": 0,
+    "name": "Siamese Fighting Fish",
+    "picture": "images/1.png",
+    "ScientificName": "Betta splendens",
+    "Lifespan": "2 years only"
+  },
+  {
+    "id": 1,
+    "name": "Common Carp",
+    "picture": "images/2.png",
+    "ScientificName": "Cyprinus Carpio",
+    "Lifespan": "47 years"
+  },
+  {
+    "id": 2,
+    "name": "Goldfish",
+    "picture": "images/3.png",
+    "ScientificName": "Carassius auratus",
+    "Lifespan": "30 years"
+  },
+  {
+    "id": 3,
+    "name": "Oscar Fish",
+    "picture": "images/4.png",
+    "ScientificName": "Astronotusoscellatus",
+    "Lifespan": "10-13 years"
+  },
+  {
+    "id": 4,
+    "name": "Wels Catfish",
+    "picture": "images/5.png",
+    "ScientificName": "Silurusglanis",
+    "Lifespan": "60 years"
+  },
+  {
+    "id": 5,
+    "name": "Zander Fish",
+    "picture": "images/6.png",
+    "ScientificName": "Sander lucioperca",
+    "Lifespan": "Very Less"
+  },
+  {
+    "id": 6,
+    "name": "European Seabass",
+    "picture": "images/7.png",
+    "ScientificName": "Dicentrarchuslabraxr",
+    "Lifespan": "25 years"
+  },
+  {
+    "id": 7,
+    "name": "Northern Pike",
+    "picture": "images/8.png",
+    "ScientificName": " Pike ",
+    "Lifespan": "about 7 years"
+  },
+  {
+    "id": 8,
+    "name": "Sword Fish",
+    "picture": "images/9.png",
+    "ScientificName": "Xiphias gladius",
+    "Lifespan": "about 9 years"
+  },
+  {
+    "id": 9,
+    "name": "Tench Fish",
+    "picture": "images/10.png",
+    "ScientificName": "Tincatinca, Schlei  ",
+    "Lifespan": "18 years"
+  },
+  {
+    "id": 10,
+    "name": "Atlantic Cod",
+    "picture": "images/11.png",
+    "ScientificName": "Gadusmorhua, benthopelagic ",
+    "Lifespan": "25 years"
+  },
+  {
+    "id": 11,
+    "name": "Atlantic Mackerel",
+    "picture": "images/12.png",
+    "ScientificName": "Scomberscombrus",
+    "Lifespan": "20 years"
+  },
+  {
+    "id": 12,
+    "name": "Common Bream",
+    "picture": "images/13.png",
+    "ScientificName": "Abramisbramar",
+    "Lifespan": "29 years"
+  },
+  {
+    "id": 13,
+    "name": "Basa Fish",
+    "picture": "images/14.png",
+    "ScientificName": "Pangasiusbacourti",
+    "Lifespan": "Long"
+  },
+   
+  {
+    "id": 14,
+    "name": "European Fish",
+    "picture": "images/15.png",
+    "ScientificName": "Percafluviatilis",
+    "Lifespan": "22 years"
+  },
+  {
+    "id": 15,
+    "name": "Rainbow Trout",
+    "picture": "images/16.png",
+    "ScientificName": "Oncorhynchus mykiss",
+    "Lifespan": "11 years"
+  },
+  {
+    "id": 16,
+    "name": "Zander Fish",
+    "picture": "images/6.png",
+    "ScientificName": "Sander lucioperca",
+    "Lifespan": "Very Less"
+  },
+  {
+    "id": 17,
+    "name": "Tench Fish",
+    "picture": "images/10.png",
+    "ScientificName": "Tincatinca, Schlei  ",
+    "Lifespan": "18 years"
+  }
+]
